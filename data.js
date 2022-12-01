@@ -1,3 +1,4 @@
+// The name of the array of 'data' is declared with 'var'
 var data = [
   {
     datetime: "1/1/2010",
