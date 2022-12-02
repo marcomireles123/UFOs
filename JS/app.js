@@ -12,3 +12,8 @@ function buildTable(data) {
 function buildTable(data) {
     tbody.html("");
   }
+
+  // Add 'forEach' function
+  data.forEach((dataRow) => {
+
+});
